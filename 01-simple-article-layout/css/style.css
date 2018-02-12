@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #FBF9F1;
+}
+
+section{
+	width: 320px;
+	height: auto;
+	margin-left: 100px;
+}
+
+h2{
+	font-size: 20px;
+}
+
+.subrayado{
+	text-decoration: underline;
+
+}
+
+.monotype{
+	background: #000000;
+	color: #ffffff;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+
+h1{
+	font-family: 'Georgia', serif;
+	font-weight: lighter;
+	font-size: 45px;
+}
+
+p{
+	line-height: 1.25;
+}
+
+p span a{
+	color: #77A8D2;
+	text-decoration: none;
+}
+primary font: Georgia, Palatino, serif;
+alternative font: Geneva, Ubuntu, sans-serif;
+line-height: 1.25
+
+link color: 77A8D2
