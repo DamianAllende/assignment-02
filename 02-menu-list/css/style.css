@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+	box-sizing: border-box;
+}
+
+ul{
+	width: 260px;
+	height: auto;
+	list-style: none;
+}
+ul li{
+	padding: 7px 0px;
+	border: 1px solid #B1B1B1;
+	padding-left: 15px;
+	
+}
+
+a{
+
+	color: #474747;
+	font-family: 'Roboto', sans-serif; 
+	text-decoration: none;
+	-webkit-transition:  1s; /* chrome */
+	-moz-transition: 1s; /* chrome */
+    transition: 1s;
+}
+
+a:hover{
+	color: #66CC99;
+}
